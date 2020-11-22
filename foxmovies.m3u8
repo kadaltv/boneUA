@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1,Fox Movies
+http://103.76.148.203:25461/live/bonetv/bonetv/9.m3u8
+#EXTVLCOPT:http-user-agent=com.wajabae.bone
